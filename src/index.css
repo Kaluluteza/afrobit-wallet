@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional extras */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  transition: background 0.3s ease;
+}
+
