@@ -2,6 +2,7 @@ import React from 'react';
 import WalletDashboard from "./components/WalletDashboard";
 import ActivityChart from "./components/ActivityChart";
 import AfroBitChart from "./components/AfroBitChart";
+import WalletActionCard from './components/WalletActionCard';
 // because it's in the same folder
 
 
