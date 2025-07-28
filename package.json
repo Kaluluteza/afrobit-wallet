@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+   "deploy": "gh-pages -d dist -u \"kaluluteza@users.noreply.github.com\" --repo=https://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@github.com/kaluluteza/afrobit-wallet.git"
   },
   "dependencies": {
     "react": "^19.1.0",
